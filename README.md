@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...![5030_1](https://github.com/user-attachments/assets/7a82ad20-1ad7-4e55-97e0-b63bda098ac2)
+- 🌱 I’m currently learning ...
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 
-![5030_1](https://github.com/user-attachments/assets/cd9233ba-aeb2-4d26-b126-9d8e5bb76e3e)
+![5030_1](https://github.com/user-attachments/assets/cd9233ba-aeb2-4d26-b126-9d8e5bb76e3e) ##cover
