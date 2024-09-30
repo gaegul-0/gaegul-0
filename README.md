@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![5030_1](https://github.com/user-attachments/assets/cd9233ba-aeb2-4d26-b126-9d8e5bb76e3e) ##cover
